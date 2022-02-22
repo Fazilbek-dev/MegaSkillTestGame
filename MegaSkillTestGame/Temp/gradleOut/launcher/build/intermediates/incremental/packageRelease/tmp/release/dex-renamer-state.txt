@@ -1,0 +1,4 @@
+#Tue Feb 22 17:34:21 GMT+05:00 2022
+base.0=D\:\\UnityProject\\MegaSkillTestGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
